@@ -1,0 +1,1 @@
+setTimeout(function() { alert("Hello, user"); }, 3000);
